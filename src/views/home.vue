@@ -22,8 +22,7 @@
 export default {
   data () {
     return {
-      firstImg: '',
-      // firstImg: require('./../assets/imgs/cover.png'),
+      // firstImg: require('./../assets/images/cover.png'),
       navs: [
         { name: '导航一yi', link: '1', active: false },
         { name: '导航二', link: '2', active: false },
